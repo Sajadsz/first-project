@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Vazir;
+    src: url(fonts/Vazir-Black.eot) format(eot) ,
+    url(fonts/Vazir-Black.ttf) format(ttf),
+    url(fonts/Vazir-Black.woff) format(woff),
+    url(fonts/Vazir-Black.woff2) format(woff2);
+}
+body {
+    font-family: vazir;
+}
+a{
+    text-decoration: none;
+}
+.icon1{
+    font-size: 2rem !important;
+    color: #0b5ed7;
+    background-color: lightgray;
+    display: inline-flex;
+    padding: 8px;
+    border-radius: 11px;
+}
+.bg-darkblue{
+    background-color: rgb(29, 29, 75);
+    color: white !important;
+}
+.bg-darkblue2{
+    background-color: rgb(29, 29, 75);
+}
+.imgcarousel{
+    width: 500px;
+    height: 500px;
+    object-fit: fill;
+}
+.bg1{
+    background-color: #e6e6e6;
+}
+.footer-link{
+    text-decoration: none;
+    color: black;
+}
+.bord1{
+    border-bottom: 3px solid black ;
+    height: 30px;
+}
